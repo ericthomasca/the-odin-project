@@ -1,0 +1,3 @@
+[submodule "ruby-on-rails/ruby-exercises"]
+	path = ruby-on-rails/ruby-exercises
+	url = https://github.com/ericthomasca/ruby-exercises
